@@ -1,3 +1,4 @@
 this is the thrid version.
-edit twice 
+edit twice
+fix bug
 new1 changed
